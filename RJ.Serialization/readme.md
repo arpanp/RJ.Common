@@ -7,4 +7,5 @@ For serialized data compression, added GZipCompression. If developer do not need
 Demo Code
 
 IStreamCompression streamCompression = new RJ.Serialization.GZipCompression();
+
 ISerializer serializer = new ProtobufSerializer(streamCompression);
