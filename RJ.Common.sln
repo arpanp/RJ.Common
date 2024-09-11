@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RJ.Common", "RJ.Common\RJ.Common.csproj", "{BFAF2DD5-A305-42F6-9CB7-11C4473F705C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RJ.Serialization", "RJ.Serialization\RJ.Serialization.csproj", "{3B6DFE66-4796-4D82-8735-318B0514A8DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFAF2DD5-A305-42F6-9CB7-11C4473F705C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAF2DD5-A305-42F6-9CB7-11C4473F705C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAF2DD5-A305-42F6-9CB7-11C4473F705C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAF2DD5-A305-42F6-9CB7-11C4473F705C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B6DFE66-4796-4D82-8735-318B0514A8DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B6DFE66-4796-4D82-8735-318B0514A8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B6DFE66-4796-4D82-8735-318B0514A8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B6DFE66-4796-4D82-8735-318B0514A8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16B9745D-717F-41A9-B77D-34DE9A82BB04}
+	EndGlobalSection
+EndGlobal
