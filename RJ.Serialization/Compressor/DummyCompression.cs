@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace RJ.Serialization
+﻿namespace RJ.Serialization
 {
     public sealed class DummyCompression : IStreamCompression
     {
